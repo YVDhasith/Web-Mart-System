@@ -6,5 +6,6 @@
     <body>
         <h1>Welcome to My Web Page</h1>
         <p>This is a sample web page with a linked CSS file.</p>
+        <button class="btn">Click Me</button>
     </body>
 </html>
